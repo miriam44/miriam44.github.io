@@ -1,0 +1,102 @@
+esercizio 2:
+<img alt="50px" widht="200px" height="200px" src="https://www.analisidellopera.it/wp-content/uploads/2018/01/Van_Gogh_Notte_Stellata-1515x1200.jpg">
+
+esercizio 3
+<ol type="I">
+    <li>html</li>
+    <ol type="i">
+        <li>tag</li>
+        <li>attribbuti</li>
+        <li>head</li>
+    </ol>
+    <li>immagine</li>
+    <ol type="i">
+       <li>l'immagine ha degli attribbuti</li>
+       <li>src</li>
+       <li>alt</li>
+    </ol>
+    <li>siti</li>
+    <ol type="i">
+        <li> i siti supportano i browser</li>
+        <li>links</li>
+        <li> il tag è "a"</li>
+		
+	
+esercizio4
+ <table width=100% border="1px" cellspacing=0>
+      <caption> <strong> tabella tag </strong> </caption>
+    <tr>
+        <th width=50%>tag</th>
+        <th>attribbuti</th>
+    </tr>
+        <tr>
+            <td rowspan="1px">html</td>
+            <td>src</td>
+        </tr>
+        <tr>
+            <td>img</td>
+            <td>width</td>
+        </tr>
+        <tr>
+            <td eowspan="1px">table</td>
+            <td>colspan</td>
+        </tr>
+        <tr>
+            <td rowspan="1px">h1</td>
+            <td>alt</td>
+            <tr>
+                <td rowspan="1px">p</td>
+                <td>rowspan</td>
+    </table>
+	
+	esercizio 5 
+	<table width="50%" border"2px" cellspacing=0>
+        <tr>
+         <th widt=50%>Name</th>
+         <th colspan=2>Phone Numbers</th>
+        </tr>
+        <tr>
+         <td rowspan=2>Ole Johanssen</td>
+         <td>Cell</td>
+         <td>555-1212</td>
+        </tr>
+	 <td>Office</td>
+         <td>387-1234</td>
+        <tr>
+         <td rowspan=2>Per Mertesacker</td>
+         <td>cell</td>
+         <td>123-5543</td>
+        </tr>
+        <tr>
+         <td>Office</td>
+         <td>382-9876</td>
+        </tr>
+        </table> 
+
+
+	esercizio6
+	
+<h1>link preferiti</h1>
+    <p> il primo link è <a href="https://www.pinterest.it/">pienterest</a></p>
+    <p>il sencondo link è <a href=https://context.reverso.net/traduzione/inglese-italiano/outline>cortex reverso</a></p>
+    <p> il terzo link è <a href=https://context.reverso.net/traduzione/inglese-italiano/outline>domus</a></p>
+    <p>il quarto link è<a href=https://www.instagram.com>instagram </a></p>
+
+
+        ESERCIZIO 7
+<html>
+<h1><i>pizza mimosa</i></h1>
+<h2><a name="ingredienti">ingredienti</a></h2>
+<ul>
+    <li>150 g di farina di tipo 0</li>
+    <li>150g di farina 00</li>
+    <li>150 ml di acqua</li>
+    <li>10g lievito di birra</li>
+    <li>2 cucchiaini di sale</li>
+    <li>2 cucchiaini di olio d'oliva</li>
+    <li> 100ml panna da cucina</li>
+    <li>80gr prosciutto cotto</li>
+    <li>150g di mais</li>
+    <li>100g di mozzarella</li>
+</ul>
+    <a href="ingredienti">fine</a>
